@@ -1,0 +1,20 @@
+Action : Remaining esther 2 email groups
+Action: What are the builds going on next week on friday
+
+
+mqsideploy HI -e IntegrationServerName -a BarFile Name
+mqsideploy HI -e HI_DM -a yourbarfilepath
+
+
+IIB:
+
+Host Name
+Integration Server
+Execution Group
+libraries need to be deployed
+property Changes to the BAR file 
+
+
+03/14 - UAT - Data Migration 
+
+Meeting with Daniyal tomorrow
